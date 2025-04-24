@@ -10,6 +10,7 @@ What is your favourite animal?
 Name | Favourite Animal
 - | -
 Claire | Bear
+Bob | Bobcat
 
 
 
