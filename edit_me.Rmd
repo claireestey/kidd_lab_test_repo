@@ -11,6 +11,7 @@ Name | Favourite Animal
 - | -
 Claire | Bear
 Bob | Bobcat
+John | Harpy Eagle
 
 
 
