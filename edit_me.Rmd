@@ -5,11 +5,11 @@ output: html_document
 
 Whoa! Looks like you've pulled this from Claire's GitHub, good work! Can you make a change, commit it, and push?
 
-What is your favourite animal?
+What is your favourite animal? 
 
 Name | Favourite Animal
 - | -
-Claire | Bear
+Samina | Bear
 Bob | Bobcat
 
 
